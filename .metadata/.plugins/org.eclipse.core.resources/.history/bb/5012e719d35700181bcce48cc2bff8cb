@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ProjDACS2018Spring
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 1144002001
+Implementation-Vendor-Id: br.univille
+Build-Jdk: 1.8.0_102
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/ProjDACS2018Spring
+Created-By: Maven Integration for Eclipse
+
